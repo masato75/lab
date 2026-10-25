@@ -6,5 +6,8 @@
   "repo": "masato75/lab",
   "mainRulesetId": 25828537,
   "mainRulesetName": "lab-main-protection",
-  "tenantId": "957a313a-971b-4add-b513-038b581bc3e7"
+  "tenantId": "957a313a-971b-4add-b513-038b581bc3e7",
+  "columnsScaffolded": true,
+  "packageDeployerScaffolded": true,
+  "dataModelScaffolded": true
 }

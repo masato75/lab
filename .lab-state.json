@@ -20,5 +20,6 @@
   "testProfile": "test",
   "appId": "f71effac-e22e-4030-ac25-2fb46620ef05",
   "pluginsScaffolded": true,
-  "logicSolutionScaffolded": true
+  "logicSolutionScaffolded": true,
+  "securityScaffolded": true
 }

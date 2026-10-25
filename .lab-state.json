@@ -18,5 +18,7 @@
   "testEnvId": "374844c1-f286-ea29-85b7-c29191b75e12",
   "testOrgId": "8cd180ab-a3d0-f111-be85-6045bd05050d",
   "testProfile": "test",
-  "appId": "f71effac-e22e-4030-ac25-2fb46620ef05"
+  "appId": "f71effac-e22e-4030-ac25-2fb46620ef05",
+  "pluginsScaffolded": true,
+  "logicSolutionScaffolded": true
 }

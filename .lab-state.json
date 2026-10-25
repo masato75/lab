@@ -9,5 +9,13 @@
   "tenantId": "957a313a-971b-4add-b513-038b581bc3e7",
   "columnsScaffolded": true,
   "packageDeployerScaffolded": true,
-  "dataModelScaffolded": true
+  "dataModelScaffolded": true,
+  "devEnvUrl": "https://wm-dev-7536.crm.dynamics.com",
+  "devEnvId": "67e01119-b581-ebb6-a0db-adcdd9245a05",
+  "devOrgId": "e5a68305-99d0-f111-be88-7ced8d71461b",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-7536.crm.dynamics.com",
+  "testEnvId": "374844c1-f286-ea29-85b7-c29191b75e12",
+  "testOrgId": "8cd180ab-a3d0-f111-be85-6045bd05050d",
+  "testProfile": "test"
 }
